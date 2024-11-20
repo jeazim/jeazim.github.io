@@ -1,25 +1,13 @@
----
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
-        [1] Shiwen Zhang(张世文), Zhixue Li, Wei Liang, K. -C. Li and Z. A. Bhuiyan. Blockchain-Based Hybrid Reliable User Selection Scheme for Task Allocation in Mobile Crowd Sensing,  IEEE Transactions on Network Science and Engineering, 2024,08, doi: 10.1109/TNSE.2024.3449146.
+[1] Shiwen Zhang(张世文), Zhixue Li, Wei Liang, K. -C. Li and Z. A. Bhuiyan. Blockchain-Based Hybrid Reliable User Selection Scheme for Task Allocation in Mobile Crowd Sensing,  IEEE Transactions on Network Science and Engineering, 2024,08, doi: 10.1109/TNSE.2024.3449146.
 
-        [2] Shiwen Zhang(张世文), Ziwei Yan, Wei Liang, K. -C. Li and B. D. Martino, BCAE: A Blockchain-Based Cross Domain Authentication Scheme for Edge Computing, IEEE Internet of Things Journal, vol. 11, no. 13, pp. 24035-24048, 1 July1, 2024, doi: 10.1109/JIOT.2024.3387934 (IF = 11.403) (SCI检索期刊, 中科院/JCR 1区, TOP期刊)
+ [2] Shiwen Zhang(张世文), Ziwei Yan, Wei Liang, K. -C. Li and B. D. Martino, BCAE: A Blockchain-Based Cross Domain Authentication Scheme for Edge Computing, IEEE Internet of Things Journal, vol. 11, no. 13, pp. 24035-24048, 1 July1, 2024, doi: 10.1109/JIOT.2024.3387934 (IF = 11.403) (SCI检索期刊, 中科院/JCR 1区, TOP期刊)
 
-        [3] Shiwen Zhang(张世文), Biao Hu, Wei Liang, K. -C. Li and A. -S. K. Pathan,  A Trajectory Privacy-Preserving Scheme Based on Transition Matrix and Caching for IIoT,  IEEE Internet of Things Journal, vol. 11, no. 4, pp. 5745-5756, 15 Feb.15, 2024, doi: 10.1109/JIOT.2023.3308073. (IF = 11.403) (SCI检索期刊, 中科院/JCR 1区, TOP期刊)
+ [3] Shiwen Zhang(张世文), Biao Hu, Wei Liang, K. -C. Li and A. -S. K. Pathan,  A Trajectory Privacy-Preserving Scheme Based on Transition Matrix and Caching for IIoT,  IEEE Internet of Things Journal, vol. 11, no. 4, pp. 5745-5756, 15 Feb.15, 2024, doi: 10.1109/JIOT.2023.3308073. (IF = 11.403) (SCI检索期刊, 中科院/JCR 1区, TOP期刊)
 
-        [4] Shiwen Zhang(张世文), Ziwei Yan, Wei  Liang, K. -C. Li and C. Dobre, BAKA: Biometric Authentication and Key Agreement Scheme Based on Fuzzy Extractor for Wireless Body Area Networks, IEEE Internet of Things Journal, vol. 11, no. 3, pp. 5118-5128, 1 Feb.1, 2024, doi: 10.1109/JIOT.2023.3302620.  (IF = 11.403) (SCI检索期刊,  中科院/JCR 1区, TOP期刊)
+ [4] Shiwen Zhang(张世文), Ziwei Yan, Wei  Liang, K. -C. Li and C. Dobre, BAKA: Biometric Authentication and Key Agreement Scheme Based on Fuzzy Extractor for Wireless Body Area Networks, IEEE Internet of Things Journal, vol. 11, no. 3, pp. 5118-5128, 1 Feb.1, 2024, doi: 10.1109/JIOT.2023.3302620.  (IF = 11.403) (SCI检索期刊,  中科院/JCR 1区, TOP期刊)
 
  [5] Shiwen. Zhang(张世文), Biao Hu, Wei Liang, K. -C. Li and B. B. Gupta,  A Caching-based Dual K-Anonymous Location Privacy-Preserving Scheme for Edge Computing, IEEE Internet of Things Journal, 2023,10(11): 9768-9781 (IF = 11.403) (SCI检索期刊, 中科院/JCR 1区, TOP期刊)
 
